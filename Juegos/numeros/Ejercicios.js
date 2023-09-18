@@ -12,6 +12,8 @@ function addNumbers(a, b) {
 */
 
 /* Ejercicio 2
+// prueba  function areaOfRectangle (largo, ancho){
+
 El área de un rectángulo se calcula de la siguiente manera: área = largo x ancho. Escribe una
 función que calcule areaOfRectangle.
 
